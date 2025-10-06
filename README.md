@@ -5,14 +5,6 @@ I build modern web applications on **React, Next.js, Node.js, Express, PostgreSQ
 
 ---
 
-## 🔧 My stack
-- **Frontend:** React, Next.js, Redux Toolkit, TypeScript, TailwindCSS 
-- **Backend:** Node.js, Express, REST API, GraphQL, PostgreSQL, MySQL, Redis  
-- **DevOps:** Docker, Git, CI/CD 
-- **Tests:** Jest, React Testing Library  
-
-
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
                 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
@@ -39,11 +31,15 @@ I build modern web applications on **React, Next.js, Node.js, Express, PostgreSQ
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=abobus-2288&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansi52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abobus-2288&theme=radical&no-frame=false&no-bg=true&margin-w=4)
