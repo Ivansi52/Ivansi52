@@ -35,7 +35,6 @@ I build modern web applications on **React, Next.js, Node.js, Express, PostgreSQ
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=abobus-2288&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansi52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
