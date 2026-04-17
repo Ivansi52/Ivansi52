@@ -1,7 +1,7 @@
 ## Hello
 💻 I'm Fullstack-developer.  
 
-I build modern web applications on **React, Next.js, Node.js, Express, PostgreSQL/MySQL**.  
+I build modern web applications on **React, Next.js, Node.js, Express, NestJS,, PostgreSQL/MySQL**.  
 
 ---
 
