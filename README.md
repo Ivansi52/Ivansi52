@@ -1,7 +1,15 @@
 ## Hello
-💻 I'm Fullstack-developer.  
+💻 I'm Fullstack-developer.
+I build modern web applications on **React, Next.js, Node.js, Express, NestJS, PostgreSQL/MySQL/Oracle**.
 
-I build modern web applications on **React, Next.js, Node.js, Express, NestJS,, PostgreSQL/MySQL**.  
+---
+
+## 🙋 About Me
+
+- 🔭 I'm currently working on **eSIM reseller web service**
+- 🌱 I'm currently learning **GoLang**
+- 💬 Ask me about **React, Next.js, NestJS, PostgreSQL**
+- 📫 Reach me at **[@vanliaz](https://t.me/vanliaz)**
 
 ---
 
@@ -60,5 +68,36 @@ I build modern web applications on **React, Next.js, Node.js, Express, NestJS,, 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
 
+# 📊 GitHub Stats:
 
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Ivansi52&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ivansi52&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansi52&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies:
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Ivansi52&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake:
+
+<div align="center">
+
+![snake gif](https://github.com/Ivansi52/Ivansi52/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
